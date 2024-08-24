@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/077d3469-9aaa-4d46-b86c-0ac3f970f105)# onlyNews
+# onlyNews
 This is a repo for filling in my design portfolio(a way to make design product), for my passion project of onlyNews.
 
 ## Background
@@ -16,7 +16,7 @@ Most of the documents here will be in plain text, meaning they will be easily ac
 ![image](https://github.com/user-attachments/assets/e339c2d6-7510-4d6c-8147-bd1424d2307a)
 ![image](https://github.com/user-attachments/assets/05d71f9b-0288-49ef-bdc8-bfed30f9fcbe)
 ![image](https://github.com/user-attachments/assets/b31236a0-4d01-4606-8487-67125cafbbe2)
-![image](https://github.com/user-attachments/assets/6488725f-4ca6-4455-b2ce-11bc539280aa)
+![image](https://github.com/user-attachments/assets/1f876c85-f2a4-44f8-ae9e-c370f14504c9)
 ![image](https://github.com/user-attachments/assets/a657947d-9705-4378-807e-c11c9b3c18ac)
 ![image](https://github.com/user-attachments/assets/58e033f1-cd75-4c0e-82e2-505a2ba552f0)
 ![image](https://github.com/user-attachments/assets/b4422f9a-54e2-4f79-9479-6658869c4449)
